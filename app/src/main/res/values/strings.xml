@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">480552900922701</string>
+    <string name="fb_login_protocol_scheme">fb480552900922701</string>
+    <string name="facebook_client_token">c6c871e2a212369290c3ca67edf31698</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+</resources>
